@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Full stack developer who loves computer science and problem solving.
 - 🎓 &nbsp; Studying Information Technology at UIET (Panjab University).
-- 🌱 &nbsp; Web enthusiast and learning about next generation web i.e web 3.0
+- 🌱 &nbsp; Web enthusiast and learning about Machine Learning
 -  💼 &nbsp; Former fullstack dev intern at elecbits and Frontend intern at telelabs.
 - ✍️ &nbsp; Looking for building a career in field of computer science
 - ✉️ &nbsp;You can shoot me an email at yuvrajmann282@gmail.com !
